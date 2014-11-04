@@ -1,0 +1,19 @@
+body {
+	text-align: left;
+background: url("images/stripes.png"), url("images/background.jpg");
+background-repeat: repeat-x, no-repeat;
+color: white;
+font-family: helvetica;
+		background-color: #535A6B; 
+}
+
+hr {
+	color: #FD6E6E;
+	width: 80px;
+	margin-left: 0;
+	
+}
+
+a {
+
+}
