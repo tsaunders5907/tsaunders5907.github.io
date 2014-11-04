@@ -1,19 +1,16 @@
+* { margin:0; padding:0; box-sizing:border-box; }
 body {
-	text-align: left;
-background: url("images/stripes.png"), url("images/background.jpg");
-background-repeat: repeat-x, no-repeat;
-color: white;
-font-family: helvetica;
-		background-color: #535A6B; 
+	background: url("images/stripes.png"), url("images/background.jpg");
+	background-color: #535A6B;
+	background-repeat: repeat-x, no-repeat;
+	background-size: auto, cover;
+	color: #ffffff;
+	font-family: helvetica, sans-serif;
 }
-
+section {
+	margin: 300px 0 0 100px;
+}
 hr {
-	color: #FD6E6E;
+	border-color: #FD6E6E;
 	width: 80px;
-	margin-left: 0;
-	
-}
-
-a {
-
 }
